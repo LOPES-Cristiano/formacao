@@ -1,16 +1,19 @@
-# Formação Java — Iniciantes
+# Formação Dev — Repositório de Treinamento
 
-Bem-vindo(a) ao repositório de treinamento em Java!  
-Este projeto foi criado para quem está começando do zero no mundo da programação.
+Bem-vindo(a) ao repositório de formação prática para iniciantes!  
+Aqui você encontra trilhas organizadas por tecnologia, com exercícios progressivos para aprender do zero.
 
-## 📁 Estrutura do Projeto
+## 📁 Projetos
 
-- **`formacaoJava/`**: Projeto Maven em Java 17 com `model/` (`Pessoa.java`, `Carro.java`), `exercicios/` (`ex01` a `ex50`) e `Main.java`.
-- **`formacaoJs/`**: Projeto Node.js em JavaScript com `src/model/`, `src/exercicios/` (`ex01` a `ex50`) e `src/index.js`.
+| Projeto | Tecnologia | Exercícios | Descrição |
+| :--- | :--- | :--- | :--- |
+| [`formacaoJava/`](./formacaoJava/README.md) | Java 17 (Maven) | 50 (`ex01`–`ex50`) | Lógica, tipos primitivos, listas, métodos e Orientação a Objetos (`Pessoa`, `Carro`). |
+| [`formacaoJs/`](./formacaoJs/README.md) | JavaScript (Node.js) | 50 (`ex01`–`ex50`) | Lógica, funções, arrays, objetos e manipulação de dados no console. |
+| [`formacaoHtmlCss/`](./formacaoHtmlCss/README.md) | HTML5 & CSS3 | 15 (`ex01`–`ex15`) | Estruturação semântica, Box Model, Flexbox, CSS Grid e responsividade. |
+| [`formacaoWeb/`](./formacaoWeb/README.md) | HTML + CSS + JS | 25 (`ex01`–`ex25`) | DOM, eventos, formulários, `localStorage`, `fetch` API e mini-aplicações. |
 
-## 🚀 Como resolver um exercício
+## 🚀 Como funciona cada exercício
 
-1. Entre na pasta do exercício em `formacao/src/main/java/formacao/exercicios/`.
-2. Leia o arquivo `README.md` do exercício para entender o objetivo e o resultado esperado.
-3. Abra o arquivo `.java` correspondente e siga as instruções nos comentários (`// TODO:`).
-4. Execute o método `main` do arquivo `.java` na sua IDE (botão "Run" / ▶️) e compare o que apareceu no console com o **Resultado esperado** no `README.md`.
+Dentro da pasta de exercícios de qualquer projeto (`ex01`, `ex02`, etc.), você sempre encontrará:
+1. **`README.md`**: O objetivo, o que fazer e o **resultado esperado**.
+2. **Arquivos de código**: Onde você escreve a sua solução seguindo os comentários `// TODO:`.
