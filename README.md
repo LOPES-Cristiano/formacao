@@ -16,4 +16,12 @@ Aqui você encontra trilhas organizadas por tecnologia, com exercícios progress
 
 Dentro da pasta de exercícios de qualquer projeto (`ex01`, `ex02`, etc.), você sempre encontrará:
 1. **`README.md`**: O objetivo, o que fazer e o **resultado esperado**.
-2. **Arquivos de código**: Onde você escreve a sua solução seguindo os comentários `// TODO:`.
+2. **Arquivos base**: O ponto de partida do exercício (não altere esses arquivos diretamente).
+3. **`resolucao/`**: Pasta onde cada aluno/contribuidor deve colocar a sua solução.
+
+## 🤝 Como enviar sua resolução (Contribuições)
+
+Para evitar conflitos entre vários participantes:
+1. Dentro da pasta do exercício (ex: `ex01/resolucao/`), crie uma pasta com o seu nome ou usuário do GitHub (ex: `ex01/resolucao/joao-silva/`).
+2. Copie os arquivos base do exercício para dentro da sua pasta e resolva seguindo os `// TODO:`.
+3. Faça o commit apenas da sua pasta `resolucao/<seu-nome>/` e envie (Push / Pull Request).
