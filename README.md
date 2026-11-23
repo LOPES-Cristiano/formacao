@@ -4,7 +4,7 @@
 
 **Trilhas práticas e progressivas para quem está começando do zero em programação.**
 
-![Java](https://img.shields.io/badge/Java-17-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Java](https://img.shields.io/badge/Java-25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/JavaScript-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -21,7 +21,7 @@
 
 | Projeto | Tecnologia | Exercícios | Foco |
 | :--- | :--- | :---: | :--- |
-| ☕ [`formacaoJava/`](./formacaoJava/README.md) | Java 17 (Maven) | **50** (`ex01`–`ex50`) | Lógica, tipos primitivos, listas, métodos e POO (`Pessoa`, `Carro`). |
+| ☕ [`formacaoJava/`](./formacaoJava/README.md) | Java 25 (Maven) | **50** (`ex01`–`ex50`) | Lógica, tipos primitivos, listas, métodos e POO (`Pessoa`, `Carro`). |
 | 🟨 [`formacaoJs/`](./formacaoJs/README.md) | JavaScript (Node.js) | **50** (`ex01`–`ex50`) | Lógica, funções, arrays, objetos e manipulação de dados no console. |
 | 🎨 [`formacaoHtmlCss/`](./formacaoHtmlCss/README.md) | HTML5 & CSS3 | **15** (`ex01`–`ex15`) | Semântica, Box Model, Flexbox, CSS Grid e responsividade. |
 | 🌐 [`formacaoWeb/`](./formacaoWeb/README.md) | HTML + CSS + JS | **25** (`ex01`–`ex25`) | DOM, eventos, formulários, `localStorage`, `fetch` API e mini-apps. |

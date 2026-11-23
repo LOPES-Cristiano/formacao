@@ -1,6 +1,6 @@
 # Formação Java — Iniciantes
 
-Trilha prática em **Java 17 (Maven)** para aprender lógica de programação e Orientação a Objetos do zero.
+Trilha prática em **Java 25 (Maven)** para aprender lógica de programação e Orientação a Objetos do zero.
 
 ## 📁 Estrutura
 
