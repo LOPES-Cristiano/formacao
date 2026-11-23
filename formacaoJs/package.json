@@ -1,0 +1,9 @@
+{
+  "name": "formacao-js",
+  "version": "1.0.0",
+  "description": "Repositório de treinamento JavaScript para iniciantes",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
